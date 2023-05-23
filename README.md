@@ -1,7 +1,6 @@
-### Hi there 🖖
+### Hey, you! 🖖
 
-I'm a Front-end Developer based in Baku, Azerbijan.
-
+Looks like something caught your attetion. Well, in that case, I'm a Front-end Developer based in Baku, Azerbijan.
 
 #### Hot 🔥
 
