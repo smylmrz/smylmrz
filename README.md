@@ -1,12 +1,11 @@
-### Hey, you! 🖖
+### Hey, buddy! 🖖
 
-Looks like something caught your attetion. Well, in that case, I'm a Front-end Developer based in Baku, Azerbijan.
+I'm a front-end developer with 5 years of XP. 
 
 #### Hot 🔥
 
-- 👉 Visit  [smylmrz.com](https://smylmrz.com).
-- 💅 Learning Nuxt 3 & Supabase to build a cool e-commerce app for a print-on-demand business.
-- 📨 Available for cool projects, you can reach me at [t.me/smylmrz](https://t.me/smylmrz)
-- 🤪 Fun facts: I'm an **inline skater**
+- 👉 My personal website where I post tech blog and some personal notes [smylmrz.com](https://smylmrz.com).
+- 💅 Currently learning Svelte & Nodejs to build even cooler projects 🚀.
+- 📨 Available for projects, you can reach me at [t.me/smylmrz](https://t.me/smylmrz)
 
 
